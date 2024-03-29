@@ -5,7 +5,7 @@ __Owner__: Yzlin
 
 __Creat Date__: 2024.03.29
 
-__benchmark__: ISPD2015-contest_benchmark: mgc_fft_1 (32281 UNPLACED COMPONENTS and 33307 NETS)
+__benchmark__: ISPD_2015_contest_benchmark: mgc_fft_1 (32281 UNPLACED COMPONENTS and 33307 NETS)
 
 a simple Simulation-Annealing Global Placer
 
